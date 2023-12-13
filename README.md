@@ -8,12 +8,7 @@ Este proyecto es un curso práctico que te guiará a través de la construcción
 
 - [Requisitos](#requisitos)
 - [Configuración del Entorno](#configuración-del-entorno)
-- [Instrucciones de Uso](#instrucciones-de-uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
+  
 ## Requisitos
 
 - Java 8 o superior
